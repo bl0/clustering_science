@@ -1,6 +1,6 @@
 # clustering_science
 
-Repository for "Clustering by fast search and find of density peaks".
+Python implementation for ["Clustering by fast search and find of density peaks"](http://science.sciencemag.org/content/344/6191/1492.full).
 
 
 
